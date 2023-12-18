@@ -1,0 +1,10 @@
+nav {
+    font-family: var(--body-font);
+    font-size: 1rem;
+    height: 3rem;
+}
+
+.active_link,
+.nav__link:hover {
+    color: var(--title-color-dark);
+}
